@@ -1,0 +1,15 @@
+{
+    "name": "giris_odev",
+    "version": "1.0.0",
+    "description": "",
+    "main": "test.js",
+    "type": "module",
+    "scripts": {
+        "start": "node app"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.27.2"
+    }
+}
